@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+#import <iostream>
+
+int main(){
+cout<<"test";
+}
+
+
+
+
